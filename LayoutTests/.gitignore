@@ -1,3 +1,6 @@
+# Ignore compiled java tests:
+java/*.class
+
 *.aif
 *.bin
 *.bmp
